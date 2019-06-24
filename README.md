@@ -2,7 +2,7 @@
 
 Manage health checks which determine the overall health of a service's dependencies.
 
-[![dependency status](https://david-dm.org/clocklimited/cf-health-check.svg)](https://david-dm.org/clocklimited/cf-health-check)
+[![dependency status](https://david-dm.org/clocklimited/cf-health-check.svg)](https://david-dm.org/clocklimited/cf-health-check) [![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/cf-health-check.svg)](https://greenkeeper.io/)
 
 ## Installation
 
